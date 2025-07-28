@@ -12,11 +12,9 @@ processing by directly fusing image patches and text tokens. This approach reduc
 complexity while improving precision, making ViLT a key component in advancing the efficiency 
 and scalability of VQA systems.
 
-<img width="699" height="684" alt="image" src="https://github.com/user-attachments/assets/f269c216-bd1e-42ce-bfad-ff6dbc51d10b" />
-
-
-
 <img width="2400" height="652" alt="image" src="https://github.com/user-attachments/assets/55ee5c3e-b6cf-4b40-b72b-9aa5e357d522" />
+
+<img width="699" height="684" alt="image" src="https://github.com/user-attachments/assets/f269c216-bd1e-42ce-bfad-ff6dbc51d10b" />
 
 <img width="781" height="687" alt="image" src="https://github.com/user-attachments/assets/8d26defa-ce92-4fd9-ab06-97f8fa496283" />
 
